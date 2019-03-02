@@ -1,1 +1,1 @@
-# simple_regresssion-ML
+# simple_regression-ML
